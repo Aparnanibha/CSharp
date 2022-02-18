@@ -1,0 +1,12 @@
+C:\C#_Training\Hello\bin\Debug\netcoreapp3.0\Hello.exe
+C:\C#_Training\Hello\bin\Debug\netcoreapp3.0\Hello.deps.json
+C:\C#_Training\Hello\bin\Debug\netcoreapp3.0\Hello.runtimeconfig.json
+C:\C#_Training\Hello\bin\Debug\netcoreapp3.0\Hello.runtimeconfig.dev.json
+C:\C#_Training\Hello\bin\Debug\netcoreapp3.0\Hello.dll
+C:\C#_Training\Hello\bin\Debug\netcoreapp3.0\Hello.pdb
+C:\C#_Training\Hello\obj\Debug\netcoreapp3.0\Hello.csprojAssemblyReference.cache
+C:\C#_Training\Hello\obj\Debug\netcoreapp3.0\Hello.csproj.CoreCompileInputs.cache
+C:\C#_Training\Hello\obj\Debug\netcoreapp3.0\Hello.AssemblyInfoInputs.cache
+C:\C#_Training\Hello\obj\Debug\netcoreapp3.0\Hello.AssemblyInfo.cs
+C:\C#_Training\Hello\obj\Debug\netcoreapp3.0\Hello.dll
+C:\C#_Training\Hello\obj\Debug\netcoreapp3.0\Hello.pdb

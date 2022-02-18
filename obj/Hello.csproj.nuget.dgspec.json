@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\C#_Training\\Hello\\Hello.csproj": {}
+  },
+  "projects": {
+    "C:\\C#_Training\\Hello\\Hello.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\C#_Training\\Hello\\Hello.csproj",
+        "projectName": "Hello",
+        "projectPath": "C:\\C#_Training\\Hello\\Hello.csproj",
+        "packagesPath": "C:\\Users\\A115\\.nuget\\packages\\",
+        "outputPath": "C:\\C#_Training\\Hello\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A115\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          }
+        }
+      }
+    }
+  }
+}
